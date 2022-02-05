@@ -5,18 +5,18 @@ Broadcom WiFi driver not found problem solved || Wifi driver not showing after i
 
 installations
 
-cd Desktop
+                       cd Desktop
 
-git clone
+                       git clone
 
-cd kali-wifi-driver
+                       cd kali-wifi-driver
 
-chmod +x ./driver.sh
+                       chmod +x ./driver.sh
 
-./driver.sh
+                       ./driver.sh
 
 
-            1)Install Wifi Driver
-            2)Quit
+1)Install Wifi Driver
+2)Quit
 
-            Please select your best solution:
+Please select your best solution:
