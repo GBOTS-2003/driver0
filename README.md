@@ -8,7 +8,7 @@ installations
 cd Desktop
 git clone https://github.com/GBOTS-2003/driver0.git
 
-cd kali-wifi-driver
+cd driver0
 
 chmod +x ./driver.sh
 
