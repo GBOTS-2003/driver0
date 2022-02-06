@@ -10,9 +10,9 @@ git clone https://github.com/GBOTS-2003/driver0.git
 
 cd driver0
 
-chmod +x ./driver.sh
+chmod +x ./driver0.sh
 
-./driver.sh
+./driver0.sh
 
 
  1)  install Wifi Driver
